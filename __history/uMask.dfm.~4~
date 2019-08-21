@@ -1,0 +1,21 @@
+object fMask: TfMask
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = #40736#26631#25302#25341#25130#22270
+  ClientHeight = 800
+  ClientWidth = 800
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnMouseDown = FormMouseDown
+  OnMouseMove = FormMouseMove
+  OnMouseUp = FormMouseUp
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+end

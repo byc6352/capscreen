@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/24 13:47:42.000.853,=C:\Users\HUASINE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/24 13:48:23.000.282,D:\works\delphi\capscreen\uMain.dfm=C:\Users\HUASINE\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/24 13:48:23.000.282,D:\works\delphi\capscreen\uMain.pas=C:\Users\HUASINE\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/24 13:48:35.000.540,D:\works\delphi\capscreen\capscreen.dproj=C:\Users\HUASINE\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/24 15:33:16.000.851,=D:\works\delphi\capscreen\Unit1.pas</Transaction>
+    <Transaction>2019/06/24 15:33:37.000.318,D:\works\delphi\capscreen\uMask.pas=D:\works\delphi\capscreen\Unit1.pas</Transaction>
+    <Transaction>2019/06/24 15:33:37.000.318,D:\works\delphi\capscreen\uMask.dfm=D:\works\delphi\capscreen\Unit1.dfm</Transaction>
+    <Transaction>2019/06/26 10:02:10.000.737,=D:\works\delphi\capscreen\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 10:02:35.000.355,D:\works\delphi\capscreen\Unit1.dfm=D:\works\delphi\capscreen\uInputFont.dfm</Transaction>
+    <Transaction>2019/06/26 10:02:35.000.355,D:\works\delphi\capscreen\Unit1.pas=D:\works\delphi\capscreen\uInputFont.pas</Transaction>
+    <Transaction>2019/06/26 10:13:48.000.017,D:\works\delphi\capscreen\uInputFont.dfm=D:\works\delphi\capscreen\uInputText.dfm</Transaction>
+    <Transaction>2019/06/26 10:13:48.000.017,D:\works\delphi\capscreen\uInputFont.pas=D:\works\delphi\capscreen\uInputText.pas</Transaction>
+    <Transaction>2019/06/26 16:33:42.000.151,=D:\works\delphi\capscreen\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 16:36:54.000.774,D:\works\delphi\capscreen\Unit1.dfm=D:\works\delphi\capscreen\uIntroduction.dfm</Transaction>
+    <Transaction>2019/06/26 16:36:54.000.774,D:\works\delphi\capscreen\Unit1.pas=D:\works\delphi\capscreen\uIntroduction.pas</Transaction>
+    <Transaction>2019/06/26 16:43:01.000.338,=D:\works\delphi\capscreen\Unit1.pas</Transaction>
+    <Transaction>2019/06/26 16:43:14.000.375,D:\works\delphi\capscreen\Unit1.dfm=D:\works\delphi\capscreen\uVersion.dfm</Transaction>
+    <Transaction>2019/06/26 16:43:14.000.375,D:\works\delphi\capscreen\Unit1.pas=D:\works\delphi\capscreen\uVersion.pas</Transaction>
+  </Transactions>
+</BorlandProject>

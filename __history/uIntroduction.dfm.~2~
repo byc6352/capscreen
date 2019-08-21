@@ -1,0 +1,30 @@
+object fIntroduction: TfIntroduction
+  Left = 0
+  Top = 0
+  Caption = #21151#33021#20171#32461
+  ClientHeight = 300
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object memSay: TMemo
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 300
+    Align = alClient
+    Lines.Strings = (
+      'memSay')
+    TabOrder = 0
+    ExplicitLeft = 232
+    ExplicitTop = 128
+    ExplicitWidth = 185
+    ExplicitHeight = 89
+  end
+end

@@ -1,0 +1,16 @@
+program capscreen;
+
+uses
+  Vcl.Forms,
+  uMain in 'uMain.pas' {fMain},
+  uMask in 'uMask.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfMain, fMain);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

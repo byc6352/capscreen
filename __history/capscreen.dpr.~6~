@@ -1,0 +1,18 @@
+program capscreen;
+
+uses
+  Vcl.Forms,
+  uMain in 'uMain.pas' {fMain},
+  uMask in 'uMask.pas' {fMask},
+  uInputFont in 'uInputFont.pas' {fInputFont};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfMain, fMain);
+  Application.CreateForm(TfMask, fMask);
+  Application.CreateForm(TfInputFont, fInputFont);
+  Application.Run;
+end.
